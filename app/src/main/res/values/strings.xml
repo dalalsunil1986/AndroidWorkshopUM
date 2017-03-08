@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="add_note_title">Add Note</string>
+    <string name="add_note_field_title">Title</string>
+    <string name="add_note_field_content">Content</string>
+    <string name="add_note_missing_data">Title and content need to be filled</string>
+    <string name="action_delete">Delete</string>
+</resources>
